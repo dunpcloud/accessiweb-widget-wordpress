@@ -3,25 +3,29 @@ Il widget AccessiWeb aggiunge al tuo sito web strumenti, regolazioni ed impostaz
 
 ## AccessiWeb Widget | il web accessibile e inclusivo
 
-Author: dunp scpl
-Author URI: https://www.dunp.it/
-Donate link: https://paypal.me/dunpcomunicazione?country.x=IT&locale.x=it_IT
-Plugin Name: AccessiWeb Widget
-Plugin URI: https://www.accessiweb.it/
-Tags: accessibility, AccessiWeb, WAD, WCAG 2.1, Legge Stanca
-Stable Tag: 1.0.0
-Requires at least: 5.0
-Requires PHP: 7.0.0
-Tested up to: 6.6
-License: GPL2
-License URI: https://it.opensuse.org/GNU_General_Public_License
+Author: dunp scpl\
+Author URI: https://www.dunp.it \
+Donate link: https://paypal.me/dunpcomunicazione \
+Plugin Name: AccessiWeb Widget \
+Plugin URI: https://www.accessiweb.it \
+Tags: accessibility, AccessiWeb, WAD, WCAG 2.1, Legge Stanca \
+Stable Tag: 1.0.0 \
+Requires at least: 5.0 \
+Requires PHP: 7.0.0 \
+Tested up to: 6.6 \
+License: GPL2 \
+License URI: https://it.opensuse.org/GNU_General_Public_License \
 
 AccessiWeb Widget: Il web accessibile e inclusivo
 
 ## Description
 
 Il web accessibile e inclusivo. Con il widget AccessiWeb il web è per TUTTI. 
-Il widget AccessiWeb aggiunge al tuo sito web strumenti, regolazioni ed impostazioni rapide progettate per personalizzare l'esperienza di navigazione e fruizione dei contenuti secondo le specifiche necessità degli utenti: 7 profili di navigazione dedicati a specifiche esigenze di disabilità; 10 regolazioni sui contenuti per migliorarne l'accessibilità ed il comfort visivo; 12 impostazioni di accessibilità percettiva, visiva e uditiva; 15 regolazioni cromatiche per personalizzare il confort visivo e la leggibilità.
+Il widget AccessiWeb aggiunge al tuo sito web strumenti, regolazioni ed impostazioni rapide progettate per personalizzare l'esperienza di navigazione e fruizione dei contenuti secondo le specifiche necessità degli utenti:
+- **7 profili di navigazione** dedicati a specifiche esigenze di disabilità;
+- **10 regolazioni sui contenuti** per migliorarne l'accessibilità ed il comfort visivo;
+- **12 impostazioni di accessibilità** percettiva, visiva e uditiva;
+- **15 regolazioni cromatiche** per personalizzare il confort visivo e la leggibilità.
 
 ## External Service
 
@@ -59,7 +63,7 @@ All'interno delle impostazioni di colore, puoi facilmente rendere la pagina web 
 Il widget permette un controllo dettagliato su altri aspetti cromatici come la saturazione, la luminosità e il contrasto, con cinque livelli disponibili per ciascuna impostazione. Questo grado di personalizzazione assicura che ogni utente possa adattare il display in modo da massimizzare la leggibilità e minimizzare lo sforzo visivo, a seconda delle proprie preferenze o necessità.
 Per coloro che utilizzano dispositivi elettronici in ore serali, il filtro Luce Notturna è una funzione indispensabile. Questo filtro riduce la quantità di luce blu emessa dallo schermo, contribuendo a diminuire l'affaticamento degli occhi e a migliorare la qualità del sonno. Inoltre, le opzioni per modificare la tinta dei testi e degli sfondi offrono ulteriori possibilità per ottimizzare la visibilità dei contenuti, permettendo a ogni utente di trovare la combinazione perfetta per una navigazione confortevole e personalizzata.
 
-## Pageviews Info ==
+## Pageviews Info
 
 Le pageviews, o visualizzazioni di pagina, sono conteggiate ogni volta che una pagina del tuo sito web viene visualizzata da un utente e su questa viene carico il Widget AccessiWeb.
 
@@ -67,7 +71,7 @@ Ogni visualizzazione viene registrata come una singola pageview. Questo sistema 
 
 Al primo giorno di ogni mese, il contatore delle pageviews viene automaticamente resettato.
 
-## Privacy Policy ==
+## Privacy Policy
 
 Il widget AccessiWeb è progettato con la massima attenzione alla privacy e conformità alle normative vigenti sul trattamento dei dati personali, inclusa la GDPR. Il widget non traccia né raccoglie alcun dato personale degli utenti che visitano il tuo sito, tantomeno gli indirizzi IP dei visitatori.
 
@@ -75,7 +79,7 @@ L'unico dato registrato in relazione al tuo widget è il contatore incrementale 
 
 La privacy dei tuoi utenti è completamente salvaguardata, permettendoti di migliorare l'esperienza utente sul tuo sito senza compromettere la sicurezza e la riservatezza dei dati.
 
-## Changelog ==
+## Changelog
 
 = 1.0.0 =
 * first release 22/07/2024
